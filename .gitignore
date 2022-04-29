@@ -1,0 +1,9 @@
+
+# Local config:
+/config.rc
+
+# Logs
+/*.log
+
+
+# Unsorted stuff (this section should always be empty):
