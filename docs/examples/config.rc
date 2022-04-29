@@ -1,0 +1,8 @@
+# -*- coding: utf-8, tab-width: 2 -*-
+#
+# Change to the cities you want and save as "config.rc".
+
+CITIES+=(
+  heidelberg/DE18053
+  mannheim/DE20600
+  )

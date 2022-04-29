@@ -5,5 +5,8 @@
 # Logs
 /*.log
 
+# Temporary files
+/cache
+
 
 # Unsorted stuff (this section should always be empty):
